@@ -4,30 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-0" value="Shopping Application" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="240" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-1" value="&lt;div&gt;PayPal&lt;/div&gt;&lt;div&gt;Checkout&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="240" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wMzgzC_BS-dfXB6wRqpz-0" target="wMzgzC_BS-dfXB6wRqpz-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="390" as="sourcePoint" />
-            <mxPoint x="440" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-3" value="Success/Failure" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="240" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wMzgzC_BS-dfXB6wRqpz-1" target="wMzgzC_BS-dfXB6wRqpz-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="410" as="sourcePoint" />
-            <mxPoint x="550" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-5" value="Existing Method" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="200" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wMzgzC_BS-dfXB6wRqpz-6" value="Merchant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,14 +40,17 @@
             <mxPoint x="560" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzgzC_BS-dfXB6wRqpz-18" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;- Eco Friendly&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Subsidy&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;- Free Ads for a month&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;- 0.5$ dollar for every purchase&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="360" width="140" height="160" as="geometry" />
+        <mxCell id="wMzgzC_BS-dfXB6wRqpz-18" value="&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;&amp;nbsp;- Eco Friendly&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;Subsidy&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;&amp;nbsp;- Free Ads for a month&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;&amp;nbsp;- 0.5$ dollar for every purchase&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="360" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wMzgzC_BS-dfXB6wRqpz-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wMzgzC_BS-dfXB6wRqpz-13" target="wMzgzC_BS-dfXB6wRqpz-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="520" as="sourcePoint" />
             <mxPoint x="760" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzgzC_BS-dfXB6wRqpz-20" value="&lt;div&gt;Exciting Offers for merchants to&amp;nbsp;&lt;/div&gt;&lt;div&gt;promote eco-friendly onboarding&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="310" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
