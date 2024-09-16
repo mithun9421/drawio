@@ -198,6 +198,9 @@
         <mxCell id="wMzgzC_BS-dfXB6wRqpz-61" value="&lt;div align=&quot;center&quot;&gt;Historical AI Based milestone setting for customer more than 5 years (To eliminate chances of fraud account just for sake of cashbacks and vouchers)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="1420" width="380" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="wMzgzC_BS-dfXB6wRqpz-62" value="Reward and milestone system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1320" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
